@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fuego-19
+- 👋 Hi, I’m Mohit.
 - 👀 I’m interested in Game Development, Android Development and Competitive Programming.
 - 🌱 I’m currently learning Android Development.
 - 📫 Reach me on Discord @mohit#2086
