@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit.
-- 👀 I’m interested in 'Game Development', 'Web Development', 'machine learning' and 'Competitive Programming'.
-- 🌱 I’m currently learning 'machine learning'.
+- 👀 I’m interested in 'Game Development', 'Web Development',  and 'Competitive Programming'.
+- 🌱 I’m currently learning 'Web Development.
 - 📫 Reach me on Discord @mohit#2086
 
 <!---
